@@ -2,11 +2,11 @@
 **Lista de materiales**
 -Materiales de Cocina
   - [x]cuchillo
-  - [] cuachara
+  - [ ] cuachara
   - [x] licuadora
-  - [] tabla de madera
+  - [ ] tabla de madera
 -Materiales de Construccion
   - [x]Varillas
-  - [] semento
+  - [ ] semento
   - [x] gravilla
   - [x] ladrillos
