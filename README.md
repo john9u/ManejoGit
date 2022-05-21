@@ -1,11 +1,11 @@
 # ManejoGit
 **Lista de materiales**
--Materiales de Cocina
+* Materiales de Cocina
   - [x]cuchillo
   - [ ] cuachara
   - [x] licuadora
   - [ ] tabla de madera
--Materiales de Construccion
+* Materiales de Construccion
   - [x]Varillas
   - [ ] semento
   - [x] gravilla
